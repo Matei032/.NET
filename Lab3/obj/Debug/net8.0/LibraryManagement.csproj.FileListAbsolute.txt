@@ -1,0 +1,8 @@
+C:\.NET\Lab3\obj\Debug\net8.0\LibraryManagement.csproj.AssemblyReference.cache
+C:\.NET\Lab3\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\.NET\Lab3\obj\Debug\net8.0\LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\.NET\Lab3\obj\Debug\net8.0\LibraryManagement.AssemblyInfoInputs.cache
+C:\.NET\Lab3\obj\Debug\net8.0\LibraryManagement.AssemblyInfo.cs
+C:\.NET\Lab3\obj\Debug\net8.0\LibraryManagement.csproj.CoreCompileInputs.cache
+C:\.NET\Lab3\obj\Debug\net8.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\.NET\Lab3\obj\Debug\net8.0\LibraryManagement.MvcApplicationPartsAssemblyInfo.cache

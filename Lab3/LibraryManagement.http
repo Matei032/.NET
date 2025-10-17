@@ -1,0 +1,34 @@
+﻿@host = https://localhost:7078
+
+### List
+GET {{host}}/books?page=1&pageSize=10
+
+### Create
+POST {{host}}/books
+Content-Type: application/json
+
+{
+  "title": "Clean Code",
+  "author": "Robert C. Martin",
+  "year": 2008
+}
+
+### Read ALL
+GET {{host}}/books/all
+
+### Get by Id 
+GET {{host}}/books/14
+
+### Update
+PUT {{host}}/books/14
+Content-Type: application/json
+
+{
+  "id": 14,
+  "title": "Clean Code (2nd Edition)",
+  "author": "Robert C. Martin",
+  "year": 2010
+}
+
+### Delete
+DELETE {{host}}/books/14
